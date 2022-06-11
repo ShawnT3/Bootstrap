@@ -1,0 +1,36 @@
+@charset "utf-8";
+.p1   {
+    background-image: url(copyright-free-images-750x420.jpg);
+    height: 300px;
+}
+.p2 {
+    height: 300px;
+    background-image: url(%E4%B8%8B%E8%BC%89.jpg);
+    background-size: cover;
+}
+.p3 {
+    background-image: url(%E4%B8%8B%E8%BC%89-_1_.jpg);
+    height: 300px;
+    background-size: cover;
+}
+.container-fluid {
+    background-color: hsla(291,58%,69%,1.00);
+    -webkit-box-shadow: 1px 1px 5px 2px;
+    box-shadow: 1px 1px 5px 2px;
+    text-align: center;
+}
+.p4 {
+    background-image: url(22222.jpg);
+    height: 300px;
+    background-size: cover;
+}
+.p5 {
+    background-image: url(sunset-sea-131100461.jpg);
+    height: 300px;
+}
+.p6 {
+    background-image: url(33333.jpg);
+    height: 600px;
+    background-position: center 0%;
+    background-size: cover;
+}
